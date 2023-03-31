@@ -1,0 +1,18 @@
+.gradiente{
+	background: linear-gradient(0deg,
+			rgba(128, 0, 64,0.5),
+			rgba(128, 0, 64,0.9));
+	color:white;
+}
+.bgradiente{
+	background: linear-gradient(0deg,
+			rgba(0, 0, 0,0.5),
+			rgba(0, 0, 0,0.8));
+}
+table td, th {
+	color:white;
+	font-weight: bold;
+}
+.color {
+	color:white
+}
